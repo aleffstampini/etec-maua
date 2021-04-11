@@ -14,4 +14,12 @@
     nav ul{
         display: none;
     }
+
+    .footer{
+        flex-direction: column;
+    }
+
+    .creditos{
+        text-align: center;
+    }
 }
