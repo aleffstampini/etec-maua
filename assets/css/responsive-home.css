@@ -15,6 +15,12 @@
         display: none;
     }
 
+    .redes-links{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .footer{
         flex-direction: column;
     }
