@@ -21,6 +21,10 @@
         justify-content: center;
     }
 
+    .item-rlinks{      
+        padding: 5%;
+    }
+
     .footer{
         flex-direction: column;
     }
