@@ -19,6 +19,10 @@
         flex-direction: column;
     }
 
+    .item-footer{
+        width: 100%;
+    }
+
     .creditos{
         text-align: center;
     }
