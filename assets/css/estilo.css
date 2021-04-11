@@ -247,6 +247,7 @@ nav ul li ul li a:hover{
 .informacoes{
     margin-top: 4%;
     text-align: center;
+    margin-bottom: 4%;
 }
 
 .informacoes h3{
@@ -256,7 +257,7 @@ nav ul li ul li a:hover{
 .info-container{
     background-color: #f8f8f8;
     border-top: 3px solid #a00001;
-    padding: 3%;
+    padding: 3% 3% 7%;
     margin-top: 5%;
     display: flex;
     flex-wrap: wrap;

@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1050px) {
+@media only screen and (max-width: 950px) {
     .container-lr{
         flex-direction: column;
     }
@@ -12,11 +12,11 @@
     }
 
     .contatos-nav{
-       flex-direction: column;
+        flex-direction: column;
     }
 
     .contatos-nav img{
-       height: 80px;
+        height: 80px;
     }
 
     nav ul{
