@@ -14,7 +14,11 @@
     .contatos-nav{
        flex-direction: column;
     }
-    
+
+    .contatos-nav img{
+       height: 80px;
+    }
+
     nav ul{
         display: none;
     }
