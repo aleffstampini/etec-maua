@@ -11,6 +11,10 @@
         width: 100%;
     }
 
+    .contatos-nav{
+       flex-direction: column;
+    }
+    
     nav ul{
         display: none;
     }
